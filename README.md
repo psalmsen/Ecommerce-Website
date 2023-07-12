@@ -1,7 +1,3 @@
-# Ecommerce-Website
-Unveiling Business Success: Analyzing an E-commerce Website Using Key KPIs
-
-
 Title: Unveiling Business Success: Analyzing an E-commerce Website Using Key KPIs
 
 Introduction:
